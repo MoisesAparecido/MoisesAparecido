@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <a href="https://github.com/MoisesAparecido">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesAparecido&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAparecido&layout=compact&langs_count=7&theme=highcontrast"/>
