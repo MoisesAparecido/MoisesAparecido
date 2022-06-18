@@ -1,8 +1,8 @@
 
 <div>
   <a href="https://github.com/MoisesAparecido">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesAparecido&show_icons=true&theme=nightowl"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAparecido&layout=compact&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesAparecido&show_icons=true&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAparecido&layout=compact&theme=blue-green"/>
 <div>
 
 <div style="display: inline_block"><br>
