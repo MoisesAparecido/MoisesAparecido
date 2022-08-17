@@ -10,8 +10,8 @@
  ###
 <div align="left">
   <a href="https://github.com/MoisesAparecido">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesAparecido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAparecido&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=MoisesAparecido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MoisesAparecido" height="152" alt="languages graph"  />
 </div>
   
 <div style="display: inline_block"><br>
